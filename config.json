@@ -1,5 +1,5 @@
 {
-    {
+    
         "workbench.colorTheme": "Catppuccin Mocha",
         "workbench.iconTheme": "symbols",
         "workbench.editor.labelFormat": "short",
@@ -52,6 +52,6 @@
         "editor.scrollbar.vertical": "hidden",
         "window.commandCenter": false,
         "workbench.layoutControl.enabled": false,
-    }
+    
     
 }
